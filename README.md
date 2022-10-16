@@ -98,38 +98,8 @@ The UI Layer consists of UI elements like buttons, menus, tabs that could intera
 ![layer](figures/figure3.png)
 
 The data Layer consists of repositories, which include business logic, such as querying data from the local database and requesting remote data from the network. It is implemented as an offline-first source of business logic and follows the [single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth) principle.<br>
-
-For more information about the overall architecture, check out **[Build a Real-Time WhatsApp Clone With Jetpack Compose](https://getstream.io/blog/build-whatsapp-clone/)**.
-
-## Modularization
-
-![modules](figures/figure4.png)
-
-**WhatsApp Clone Compose** adopted modularization strategies below:
-
-- **Reusability**: Modulizing reusable codes properly enable opportunities for code sharing and limits code accessibility in other modules at the same time.
-
-- **Parallel Building**: Each module can be run in parallel and it reduces the build time.
-
 - **Decentralized focusing**: Each developer team can assign their dedicated module and they can focus on their own modules.
-
-
-## 💯 MAD Score
-
-![summary](https://user-images.githubusercontent.com/24237865/158918011-bc766482-ec83-47dd-9237-d8a226cab263.png)
-
-## 🤝 Contribution
-
-Most of the features are not completed except the chat feature, so anyone can contribute and improve this project following the [Contributing Guideline](https://github.com/GetStream/whatsapp-clone-compose/blob/main/CONTRIBUTING.md).
-
-## Find this repository useful? 💙
-Support it by joining __[stargazers](https://github.com/GetStream/whatsapp-clone-compose/stargazers)__ for this repository. :star: <br>
-Also, follow __[maintainers](https://github.com/skydoves)__ on GitHub for our next creations! 🤩
-
 # License
-```xml
-Copyright 2022 Stream.IO, Inc. All Rights Reserved.
-
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
