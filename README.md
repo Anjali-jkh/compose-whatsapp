@@ -17,6 +17,7 @@ This is a [WhatsApp](https://www.whatsapp.com/) clone app built with Jetpack Com
 <img src="previews/preview4.png" alt="drawing" width="270" />
 <img src="previews/preview3.png" alt="drawing" width="270" />
 </p>
+<p>
 ## 🛠 Tech Sacks & Open Source Libraries
 - Minimum SDK level 21.
 - 100% [Jetpack Compose](https://developer.android.com/jetpack/compose) based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous.
@@ -48,3 +49,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+</p>
