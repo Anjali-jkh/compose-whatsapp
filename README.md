@@ -24,4 +24,4 @@ You may obtain a copy of the License at
 
    http://www.apache.org/licenses/LICENSE-2.0
 
-<p> Thanks: GetStream</p>
+<p> Thanks: GetStream.io</p>
