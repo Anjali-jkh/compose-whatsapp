@@ -1,6 +1,6 @@
 <p>
 
-This is a [WhatsApp](https://www.whatsapp.com/) clone app built with Jetpack Compose and [Stream Chat SDK for Compose](https://getstream.io/chat/sdk/compose?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Aug2022_WhatsAppAndroidClone&utm_term=DevRelOss).
+This is a [WhatsApp](https://www.whatsapp.com/) clone app built with Jetpack Compose and [Stream Chat SDK for Compose] 
 </p>
 
 ## 📷 Previews
